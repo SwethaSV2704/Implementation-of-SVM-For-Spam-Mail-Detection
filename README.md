@@ -27,8 +27,8 @@ Step 8. End the Program.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: V.SHREYA
-RegisterNumber:  212224230266
+Developed by: SWETHA S V
+RegisterNumber:  212224230285
 */
 
 import chardet, pandas as pd
